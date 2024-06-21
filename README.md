@@ -1,4 +1,4 @@
-# hey,
+# hi
 
 i'm dylan i study computer science at georgia tech
 
