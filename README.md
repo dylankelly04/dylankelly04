@@ -1,7 +1,3 @@
-hi.
+studying cs @ georgia tech
 
-i'm dylan i study computer science (and a bit of maths) at georgia tech.
-
-interested in low level programming, quantitative trading & financial markets.
-
-building matrix
+interested in systems programming, quantitative trading & financial markets
